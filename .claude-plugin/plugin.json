@@ -1,0 +1,6 @@
+{
+  "name": "message-times",
+  "version": "0.1.0",
+  "description": "Shows a muted local-time stamp beside each message you send and each final reply from Claude",
+  "types": "./types/index.d.ts"
+}

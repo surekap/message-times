@@ -1,0 +1,6 @@
+{
+  "name": "message-times",
+  "description": "A Claude Code mod that shows local-time stamps beside your messages and Claude's final replies",
+  "owner": { "name": "surekap" },
+  "plugins": [{ "name": "message-times", "source": "./" }]
+}
